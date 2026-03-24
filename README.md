@@ -17,7 +17,7 @@ Elle offre des fonctionnalités de création, lecture, modification, suppression
 ## Installation
 
 1. Cloner le projet
-git clone https://github.com/votre-nom/api-blog.git
+git clone https://github.com/klorianfeussi-boop/api-blog.git
 
 2. Installer les dépendances
 npm install
